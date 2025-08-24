@@ -27,9 +27,3 @@
 ## ⚡ Circuit Diagram
 ![Circuit Diagram](![Arduino](https://github.com/user-attachments/assets/86e457f1-81b8-4b40-bcbc-702c48df2083)
 )
-
-*(Replace with your actual circuit image)*  
-
----
-
-## 📂 Project Structure
