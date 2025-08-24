@@ -25,5 +25,5 @@
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](![Arduino](https://github.com/user-attachments/assets/86e457f1-81b8-4b40-bcbc-702c48df2083)
+C:\Users\Hemsagar B C\Pictures\Arduino.jpg
 )
