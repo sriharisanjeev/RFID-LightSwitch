@@ -22,6 +22,4 @@
 | Bulb + Bulb Holder | 1      |
 | Breadboard + Jumper Wires | – |
 
----
 
-## ⚡ Circuit Diagram
