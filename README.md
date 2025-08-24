@@ -25,5 +25,3 @@
 ---
 
 ## ⚡ Circuit Diagram
-C:\Users\Hemsagar B C\Pictures\Arduino.jpg
-)
