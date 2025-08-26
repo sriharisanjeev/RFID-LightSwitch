@@ -57,7 +57,7 @@ If not, the bulb will remain unchanged.
 
 📂 Repository Contents
 
-code/ → Arduino sketch (.ino file)
+RFID.ino/ → Arduino sketch (.ino file)
 
 circuit_diagram/ → Circuit design images
 
